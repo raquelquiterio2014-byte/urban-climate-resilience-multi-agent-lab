@@ -1,0 +1,7 @@
+district,rainfall_mm,impervious_pct,drainage_capacity_pct,population_exposed,vulnerability_pct
+Demo District A,180,85,30,4200,75
+Demo District B,95,55,65,2100,45
+Demo District C,40,25,85,650,20
+Demo District D,220,70,40,3100,60
+Demo District E,120,60,55,2700,50
+Demo District F,65,35,75,900,30
